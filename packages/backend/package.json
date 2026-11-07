@@ -24,7 +24,7 @@
     "backfill:requests:prod": "node dist/database/backfills/request-backfill.cli.js"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.1127.0",
+    "@aws-sdk/client-s3": "^3.1163.0",
     "@better-auth/cimd": "1.7.4",
     "@better-auth/mcp": "1.7.4",
     "@better-auth/oauth-provider": "1.7.4",
