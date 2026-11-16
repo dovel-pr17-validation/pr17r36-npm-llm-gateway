@@ -14,7 +14,7 @@
   "dependencies": {
     "@better-auth/stripe": "1.7.4",
     "@solidjs/meta": "^0.29.4",
-    "@solidjs/router": "^0.16.2",
+    "@solidjs/router": "^1.0.3",
     "better-auth": "1.7.4",
     "dompurify": "^3.4.14",
     "highlight.js": "^11.12.0",
